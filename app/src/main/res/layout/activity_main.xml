@@ -13,5 +13,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Biodata belum ada"
+        android:id="@+id/textViewBiodata" />
+
+    <Button
+        android:layout_width="349dp"
+        android:layout_height="wrap_content"
+        android:text="Isi Biodata"
+        android:id="@+id/buttonInput" />
+
 </LinearLayout>
